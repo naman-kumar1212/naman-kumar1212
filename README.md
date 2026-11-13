@@ -1,24 +1,115 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naman Kumar
-===================================================================================================================================
+<div align="center">
 
-Frontend Developer and AI Expert
---------------------------------
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · naman-kumar1212</sub></p>
+<h1>Naman Kumar</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-# 💫 About Me:
-Hi, I'm a developer who enjoys turning ideas into working software.<br><br>What I do:<br>- Build projects to learn new technologies<br>- Practice problem solving<br>- Explore different programming tools<br><br>Goals:<br>- Become a strong software developer<br>- Contribute to open source<br>- Build meaningful projects
+<p><a href="https://github.com/naman-kumar1212">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/156050982?u=65778e244c1cc898e19cad0227b4e038e6912a2a&amp;v=4" width="180" alt="Naman Kumar GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
+<h2>What teams can evaluate quickly</h2>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naman____012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/namankumar12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namanchaudhary6546@gmail.com) 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · Dart</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>17 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>105 contributions · 16 active days</p></td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naman-kumar1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naman-kumar1212&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-kumar1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naman-kumar1212&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<h2>Proof at a glance</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>105</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Naman Kumar GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&repos=naman-kumar1212%2Fcodedevin-LMS%2Cnaman-kumar1212%2Fattend75%2Cnaman-kumar1212%2Flunar-lander-reward-shaping%2Cnaman-kumar1212%2Fai-research-assistant&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&repos=naman-kumar1212%2Fcodedevin-LMS%2Cnaman-kumar1212%2Fattend75%2Cnaman-kumar1212%2Flunar-lander-reward-shaping%2Cnaman-kumar1212%2Fai-research-assistant&v=recruiter-projects-1&mode=dark" width="100%" alt="Naman Kumar selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/naman-kumar1212/codedevin-LMS">codedevin-LMS</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 1</sub></p>
+<p><a href="https://github.com/naman-kumar1212/codedevin-LMS">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/naman-kumar1212/attend75">attend75</a></h3><p>A selected public project.</p><p><sub>Dart · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/naman-kumar1212/lunar-lander-reward-shaping">lunar-lander-reward-shaping</a></h3><p>Empirical study on RL reward engineering, deliberate reward hacking, and policy invariance with PPO in LunarLander-v3</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/naman-kumar1212/ai-research-assistant">ai-research-assistant</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Naman Kumar technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>52% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>Dart</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=naman-kumar1212&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156050982%3Fu%3D65778e244c1cc898e19cad0227b4e038e6912a2a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Naman Kumar contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/naman-kumar1212">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Naman Kumar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
